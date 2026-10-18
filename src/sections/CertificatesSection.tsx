@@ -8,6 +8,7 @@ const credentials = [
   },
   { name: 'CS50x', issuer: 'HarvardX / edX' },
   { name: 'Front End Development', issuer: 'freeCodeCamp' },
+  { name: 'Oracle Academy Database Foundation', issuer: 'Oracle' },
 ];
 
 export default function CertificatesSection() {

@@ -166,7 +166,7 @@ export default function HeroSection() {
           </p>
           {/* Credentials caption */}
           <p className="mt-3 text-[#D7E2EA] font-light uppercase tracking-wide opacity-50 text-[10px] sm:text-xs">
-            BSc Software Engineering · CS50x · freeCodeCamp Front End
+            BSc Software Engineering · CS50x  
           </p>
         </FadeIn>
 
