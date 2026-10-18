@@ -4,7 +4,7 @@ import AnimatedText from '../components/AnimatedText';
 import ContactButton from '../components/ContactButton';
 
 const aboutText =
-  "Since 2023 I've been building full-stack web and mobile products, from student marketplaces to event platforms to network tools, as co-founder of Trybenode and through my own ventures. I care about shipping things people actually use. Let's build something real together!";
+  "I'm a full-stack engineer who builds web and mobile products end to end, from clean, responsive interfaces to scalable APIs and databases. As co-founder of a software studio with a hand-full of projects and through my own ventures, I turn ideas into reliable, production-ready software people actually use. Let's build something real together!";
 
 /**
  * Four decorative corner accents — purely visual texture framing the copy.
